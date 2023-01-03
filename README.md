@@ -24,8 +24,8 @@ I play games, solve puzzles, learn more new interesting things, and like to have
   - [osTicket: Installation](https://github.com/neartheninja/osticket-Installation)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+  - [Configuring On-premises Active Directory within Azure VMs] (update soon)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols] (update soon)
 
 <h2>Connect with me:</h2>
 
