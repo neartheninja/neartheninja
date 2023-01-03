@@ -20,7 +20,8 @@ I play games, solve puzzles, learn more new interesting things, and like to have
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/neartheninja/osticket-prereqs)
+- - [osTicket: Prerequisites](https://github.com/neartheninja/osTicket-Prerequisites)
+  - [osTicket: Installation](https://github.com/neartheninja/osticket-Installation)
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]
